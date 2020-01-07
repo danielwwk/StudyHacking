@@ -13,6 +13,9 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 * OWASP Testing Project
 https://www.owasp.org/index.php/OWASP_Testing_Project
 
+* Web Hacking 101
+https://leanpub.com/web-hacking-101
+
 
 ### Practices:
 
@@ -70,6 +73,9 @@ https://github.com/fuzzdb-project/fuzzdb
 * EXPLOIT DATABASE BY OFFENSIVE SECURITY
 https://www.exploit-db.com/
 
+* ehrishirajsharma/SwiftnessX
+https://github.com/ehrishirajsharma/SwiftnessX/releases
+
 
 ### Bugbounty platform
 * https://www.hackerone.com/
@@ -88,6 +94,8 @@ https://www.exploit-db.com/
 * https://github.com/ngalongc/bug-bounty-reference
 
 * https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+
+* https://www.youtube.com/user/yaworsk1
 
 * https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
 
