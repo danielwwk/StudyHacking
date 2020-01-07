@@ -16,6 +16,24 @@ https://www.owasp.org/index.php/OWASP_Testing_Project
 * Web Hacking 101
 https://leanpub.com/web-hacking-101
 
+* JWT, JWS and JWE for Not So Dummies! (Part I)
+https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3
+
+* OAuth 2.0 : Explained
+https://medium.com/@milinddaftari/oauth-2-0-explained-d001e5c98ee7
+
+* Overview of SAML
+https://developers.onelogin.com/saml
+
+* Cryptography Tutorial
+https://www.tutorialspoint.com/cryptography/index.htm
+
+* REST API Tutorial
+https://restfulapi.net/
+
+* [Code Audit] List of PHP risk function
+https://securityonline.info/code-audit-list-php-risk-function/
+
 
 ### Practices:
 
@@ -34,11 +52,17 @@ https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
 * PentesterLab
 https://pentesterlab.com/
 
+* Root Me : Hacking and Information Security learning platform
+https://www.root-me.org/?page=news&lang=en
+
 
 ### Tools:
 
 * Kali Linux
 https://www.kali.org/
+
+* The Parrot System
+https://parrotlinux.org/
 
 * VMware Workstation Player
 https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0
@@ -48,6 +72,9 @@ https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2
 
 * ngrok - secure introspectable tunnels to localhost
 https://ngrok.com/
+
+* The Collaboration Platform for API Development
+https://www.getpostman.com/
 
 * The world's leading software development platform · GitHub
 https://github.com/
@@ -61,8 +88,17 @@ https://www.w3schools.com/python/python_intro.asp
 * Burp Suite Community Edition
 https://portswigger.net/burp/communitydownload
 
+* How to Use Wireshark: Comprehensive Tutorial + Tips
+https://www.varonis.com/blog/how-to-use-wireshark/
+
+* Best #firefox addons for #Hacking
+https://twitter.com/cry__pto/status/1210836734331752449
+
 * swisskyrepo/PayloadsAllTheThings
 https://github.com/swisskyrepo/PayloadsAllTheThings
+
+* Reverse Shell Cheat Sheet
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
 * danielmiessler/SecLists
 https://github.com/danielmiessler/SecLists
@@ -77,7 +113,7 @@ https://www.exploit-db.com/
 https://github.com/ehrishirajsharma/SwiftnessX/releases
 
 
-### Bugbounty platform
+### Bugbounty platforms:
 * https://www.hackerone.com/
 
 * https://www.bugcrowd.com/
@@ -90,6 +126,7 @@ https://github.com/ehrishirajsharma/SwiftnessX/releases
 * https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
 
 * https://twitter.com/search?q=%23bugbounty&src=saved_search_click
+#BugBounty, #bugbountytips, #bugbountytip, #whitehat, #infosec
 
 * https://github.com/ngalongc/bug-bounty-reference
 
@@ -98,6 +135,8 @@ https://github.com/ehrishirajsharma/SwiftnessX/releases
 * https://www.youtube.com/user/yaworsk1
 
 * https://www.hackingarticles.in/web-penetration-testing/
+
+* https://securityonline.info/category/penetration-testing/webapp-pentest/
 
 * https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
 
