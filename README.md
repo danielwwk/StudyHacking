@@ -5,7 +5,7 @@
 ### Introduction:
 
 * The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition
-https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?crid=1GN028MQOAMR5&keywords=the+web+application+hackers+handbook&qid=1578376997&s=books&sprefix=the+web+application+hacker%2Cstripbooks-intl-ship%2C345&sr=1-1
+https://www.amazon.com/dp/1118026470/ref=rdr_ext_tmb
 
 * OWASP Top Ten Project
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
