@@ -97,6 +97,8 @@ https://github.com/ehrishirajsharma/SwiftnessX/releases
 
 * https://www.youtube.com/user/yaworsk1
 
+* https://www.hackingarticles.in/web-penetration-testing/
+
 * https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
 
 * https://www.paypal.com/hk/webapps/mpp/account-selection?pros=1&locale.x=zh_HK
