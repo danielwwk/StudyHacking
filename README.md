@@ -34,26 +34,8 @@ https://restfulapi.net/
 * [Code Audit] List of PHP risk function
 https://securityonline.info/code-audit-list-php-risk-function/
 
-
-### Practices:
-
-* PortSwigger - Web Security Academy
-https://portswigger.net/web-security
-
-* BUGCROWD UNIVERSITY
-https://www.bugcrowd.com/hackers/bugcrowd-university/
-
-* HACKER101 - LEARN HOW TO HACK
-https://www.hackerone.com/hacker101
-
-* OWASP Broken Web Applications Project
-https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
-
-* PentesterLab
-https://pentesterlab.com/
-
-* Root Me : Hacking and Information Security learning platform
-https://www.root-me.org/?page=news&lang=en
+* Linux Essentials For Hackers
+https://www.youtube.com/watch?v=T0Db6dVYyoA&list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by
 
 
 ### Tools:
@@ -113,10 +95,25 @@ https://www.exploit-db.com/
 https://github.com/ehrishirajsharma/SwiftnessX/releases
 
 
-### Bugbounty platforms:
-* https://www.hackerone.com/
+### Practices:
 
-* https://www.bugcrowd.com/
+* PortSwigger - Web Security Academy
+https://portswigger.net/web-security
+
+* BUGCROWD UNIVERSITY
+https://www.bugcrowd.com/hackers/bugcrowd-university/
+
+* HACKER101 - LEARN HOW TO HACK
+https://www.hackerone.com/hacker101
+
+* OWASP Broken Web Applications Project
+https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
+
+* PentesterLab
+https://pentesterlab.com/
+
+* Root Me : Hacking and Information Security learning platform
+https://www.root-me.org/?page=news&lang=en
 
 
 ### Reference:
@@ -138,8 +135,16 @@ https://github.com/ehrishirajsharma/SwiftnessX/releases
 
 * https://securityonline.info/category/penetration-testing/webapp-pentest/
 
+* https://github.com/ibr2/pwk-cheatsheet
+
+* https://medium.com/bugbountywriteup
+
 * https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
 
+
+### Bugbounty:
+* https://www.hackerone.com/
+
+* https://www.bugcrowd.com/
+
 * https://www.paypal.com/hk/webapps/mpp/account-selection?pros=1&locale.x=zh_HK
-
-
