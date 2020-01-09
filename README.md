@@ -141,6 +141,8 @@ https://www.root-me.org/?page=news&lang=en
 
 * https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
 
+* https://twitter.com/Unknownuser1806/status/1214555943297409030
+
 
 ### Bugbounty:
 * https://www.hackerone.com/
